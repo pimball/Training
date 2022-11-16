@@ -1,6 +1,6 @@
 # Training
 
-   Maybe nobody see this, but the intention of this repository, is to encourage and analyze how future developers and beginners web developers are doing in the study of html and css.
+  - Maybe nobody see this, but the intention of this repository, is to encourage and analyze how future developers and beginners web developers are doing in the study of html and css.If you get interesssed  make a pull request and I will see how are you going.
    
    
    
